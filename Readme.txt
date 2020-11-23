@@ -9,3 +9,5 @@ Nov 7 2020 - Feeling like a failure again welp
 Nov 8 2020 - WOmp
 
 Nov 18 2020 - 😬
+
+Nov 22 2020 - 😐
