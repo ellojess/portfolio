@@ -11,3 +11,5 @@ Nov 8 2020 - WOmp
 Nov 18 2020 - 😬
 
 Nov 22 2020 - 😐
+
+Nov 23 2020 - Am I gonna make it? ):
