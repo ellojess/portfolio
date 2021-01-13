@@ -27,9 +27,10 @@ If you'd like to view the code locally on your desktop, follow these steps:
   $ code . 
   ```
 
-
-
 ## Future Lookouts
 - [ ] DRY
 - [ ] vLogs
 - [ ] Active contact form 
+
+## Additional Links 
+[Pitch Deck](https://drive.google.com/file/d/1QcKhIyZQiJYvD0Sx-K9tHY0pse0as99q/view?usp=sharing)
